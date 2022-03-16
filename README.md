@@ -4,7 +4,7 @@ Mime Date Countdown is an app which can help you organise the date remain.
 ## Usage
 Copy `mimedcnt.exe` to local folder, then run it.
 
-The preferences file is at `%AppData%\\Mime\\Date Countdown\\config.exe`. Delete it if you met any question.
+The preferences file is at `%AppData%\Mime\Date Countdown\config.exe`. Delete it if you met any question.
 
 If it still does not work, submit an issue.
 
@@ -19,7 +19,7 @@ No, it's not yet. The current version is not open-source. But it will be open-so
 
 **How did it develop?**
 
-Using Chinese coding language -- E.
+Using Chinese coding language — E.
 
 ---
 # Contact
